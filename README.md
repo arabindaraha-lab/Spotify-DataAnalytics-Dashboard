@@ -1,7 +1,8 @@
-# Spotify User Behavior & Pattern Dataset
+# Spotify User Behavior & Pattern Analysis
 
 ## Project Overview
-The dataset includes demographic attributes,subscription information,engagement behavior,ad interactions,listening habits,and platform usage patterns. This dataset is used to study user engagement,subscription behavior,churn patterns,listening habits and feature preferences on a digital music platform.
+This project focuses on analyzing user behavior and engagement patterns on Spotify using an interactive data dashboard. The objective was to extract actionable insights to improve user retention, optimize subscription strategies, and enhance overall user experience.
+The dataset includes key attributes such as user demographics (age, country), subscription type and status, listening habits, engagement metrics (listening hours, playlists created, skips), and inactivity trends. Using Excel, the data was cleaned, transformed, and visualized into an dashboard
 
 ![Cover Image](Image.png)
 
