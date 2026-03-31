@@ -35,7 +35,7 @@ The dataset includes key attributes such as user demographics (age, country), su
 | **avg_skips_per_day** | Average number of songs skipped by the user per day. | Integer |
 | **engaging_score** | Users’ engagement with spotify in terms of some values. | Float |
 | **engaging_level** |Users’ 3 different engagement level with spotify. | Categorical |
-| **Country wise User** | For map chart calculation purpose. | Categorical |
+| **Country wise User** | For map chart calculation purpose. | Integer |
 
 ## Key Insights & Statistics
 - **Stable User Growth-** Yearly signups were consistent (approx 550–660 users per year). Only in year 2026, there was a drop in user signup counts mainly because of shortage of data.
