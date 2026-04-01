@@ -59,7 +59,7 @@ The dataset includes key attributes such as user demographics (age, country), su
 - Enhance user satisfaction 
 
 ## Dashboard Image
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](SpotifyDashboard.png)
 
 ## Data Cleaning Notes
 -	**Formatting-** Custom number formatting of `signup_date` column into `yyyy` and renamed the column to `signup_year`.
