@@ -41,7 +41,7 @@ The dataset includes key attributes such as user demographics (age, country), su
 - **Stable User Growth-** Yearly signups were consistent (approx 550–660 users per year). Only in year 2026, there was a drop in user signup counts mainly because of shortage of data.
 - **High Churn Rate (21.5%)-** 1076 out of 5000 users detach from Spotify and users’ average months of inactivity is high which also indicates detachment from spotify.
 - **Subscription Type Domination & Weak Conversion-** Free users are high in number(2195) .But conversion to paid is very low. Users enjoy the platform but don’t see enough value to upgrade.
-- **Poor Music Recommendation-** Avg Skips/Day = 10+ , Music Suggestion Rating = Less than 4
+- **Poor Music Recommendation-** Avg Skips/Day = 10+ , Avg Music Suggestion Rating = Less than 4
 - **Engagement Level-** High=841 users, Medium=3313 users(majority), Low=846 users
 - **Diversified Genre Preference-** No extreme dominance of any genre 
 - **Geographic Coverage-** Number of users across the mentioned countries are almost balanced.
