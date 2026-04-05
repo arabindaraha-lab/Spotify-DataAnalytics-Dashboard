@@ -4,7 +4,7 @@
 This project focuses on analyzing user behavior and engagement patterns on Spotify using an interactive data dashboard. The objective was to extract actionable insights to improve user retention, optimize subscription strategies, and enhance overall user experience.
 The dataset includes key attributes such as user demographics (age, country), subscription type and status, listening habits, engagement metrics (listening hours, playlists created, skips), and inactivity trends. Using Google Sheet/Excel, the data was cleaned, transformed, and visualized into a dashboard.
 
-![Cover Image](CoverPhoto.png)
+![Cover Image](COVERPHOTO.png)
 
 ## File Details
 - **Filename:** `SpotifyDataAnalysis.xlsx`
