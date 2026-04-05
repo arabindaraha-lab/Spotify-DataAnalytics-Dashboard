@@ -7,10 +7,10 @@ The dataset includes key attributes such as user demographics (age, country), su
 ![Cover Image](COVERPHOTO.png)
 
 ## File Details
-- **Filename:** `SpotifyDataAnalysis.xlsx`
+- **Filename:** [`SpotifyDataAnalysis.xlsx`](https://docs.google.com/spreadsheets/d/1HbwQTCGhxHzA7k-1-_csY6up5XdouaUWDa4dbTYxp3g/edit?usp=sharing)
 - **Total Records:** `5000`
 - **Primary Keys:** `country`,`subscription_type`,`subscription_status`,`favorite_genre`,`primary_device`
-- **Source of Data:** https://www.kaggle.com/datasets/sahilislam007/spotify-user-behavior-and-pattern
+- **Source of Data:** [`spotify_user_behavior_realistic_50000_rows.csv`](https://www.kaggle.com/datasets/sahilislam007/spotify-user-behavior-and-pattern)
 
 ## Data Dictionary
 
