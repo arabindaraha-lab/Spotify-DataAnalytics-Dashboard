@@ -23,7 +23,7 @@ The dataset includes key attributes such as user demographics (age, country), su
 | **subscription_type** | Type of subscription used by the user. | String |
 | **subscription_status** | Indicates whether the user currently has an active or inactive subscription. | String |
 | **months_inactive** | Number of months the user has been inactive on the platform. | Integer |
-| **inactive_3_months_flag** | Binary indicator showing whether the user has been inactive for 3 months or more. 1 = Inactive for 3+ months , 0 = Else | Boolean |
+| **inactive_3_months_flag** | Binary indicator showing whether the user has been inactive for 3 months or more. 1 = Inactive for 3+ months , 0 = Otherwise | Boolean |
 | **ad_interaction** | Indicates whether the user has interacted with advertisements on the platform. | Boolean |
 | **ad_conversion_to_subscription** | Indicates whether an advertisement resulted in the user converting to a paid subscription. | Boolean |
 | **music_suggestion_rating_1_to_5** | User rating (1–5 scale) for the platform's music recommendation system. 1 = Very poor recommendations 5 = Very good recommendations | Integer |
